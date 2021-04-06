@@ -40,7 +40,7 @@ Creating games for fun, learning machine learning stuff,
   <a href="https://www.instagram.com/miguel07alm/">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp" height="35px" style="margin: 5px;" />
   </a>
-  <a href="mailto:miguelangelsisi098@gmail.com">
+  <a href="mailto:miguelangelsisi098@protonmail.com">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
   </a>
 </p>
