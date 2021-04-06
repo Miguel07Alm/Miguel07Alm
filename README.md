@@ -21,7 +21,7 @@ Creating games for fun, learning machine learning stuff,
 
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/controller.png" width="30px" />  a game
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> I’m currently learning ...
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gesture.jpeg" width="30px" /> Art in pixels
+- <img src="https://github.com/Miguel07Alm/Miguel07Alm/blob/main/images/aseprite_icon.png?raw=true" width="30px" /> Art in pixels
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/unity.png" height="30px" /> Game Design
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/ml.png" height="35px" /> ML
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" /> I’m looking to collaborate on ...
@@ -54,7 +54,6 @@ Creating games for fun, learning machine learning stuff,
             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/nodejs.svg" height="35px" style="vertical-align:top margin:6px 4px" />
              <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/python.svg" height="35px" style="vertical-align:top margin:6px 4px" />
              <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
-             <img src="https://github.com/Miguel07Alm/Miguel07Alm/blob/main/images/aseprite_icon.png?raw=true" height="35px" style="vertical-align:top margin:6px 4px"/>
              
 </p>
 
