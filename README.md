@@ -12,3 +12,4 @@
 <img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel07Alm&theme=tokyonight&show_icons=true" />
 
 </p>
+[![](https://visitcount.itsvg.in/api?id=miguel07alm&icon=0&color=12)](https://visitcount.itsvg.in)
