@@ -29,3 +29,22 @@ Self-taught developer.
 </a>
 </div>
 
+ <math-renderer class="js-display-math" style="display: block" data-static-url="https://github.githubassets.com/static" data-run-id="195ad77ff92c236542d846d4f13528a" data-catalyst>
+        <mjx-container style="position: relative; display: true" jax="CHTML" class="MathJax CtxtMenu_Attached_0" tabindex="0" ctxmenu_counter="0">
+            <mjx-assistive-mml display="block" unselectable="on">
+                <math display="block" xmlns="http://www.w3.org/1998/Math/MathML">
+                    <mrow data-mjx-texclass="ORD">
+                        <mtext></mtext>
+                        <mn>50</mn>
+                    </mrow>
+                </math>
+            </mjx-assistive-mml>
+            <mjx-tex style="margin-left: 0px; margin-right: 0px; aria-hidden="true" class="MJX-TEX" display="true">
+                <mjx-utext>
+                    <mjx-textom>
+                        <mjx-utext style="font-family: goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: 85vh; width: 130vw; opacity: 0.5; background: url('https://i.postimg.cc/sDJWtPyy/hoyo-negro-de-ciencia-ficcion-1920x1080-xtrafondos-com.jpg');">
+                    </mjx-utext>
+                </mjx-textom>
+            </mjx-utext>
+        </mjx-tex>
+    </math-renderer>
