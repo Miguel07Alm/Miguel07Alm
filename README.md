@@ -1,5 +1,5 @@
 # 🌅 About Me
-20, full-stack engineer. <br> 
+20, computer engineer. <br> 
 Self-taught developer.
 
 # 💻 Tech Knowledge
