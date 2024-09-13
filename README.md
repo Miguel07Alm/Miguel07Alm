@@ -1,6 +1,6 @@
 #  About Me
 [![Profile banner](https://i.postimg.cc/YCzbtDHF/ascii-image.png)](https://postimg.cc/v4DWzzD8)
-20yo, Computer Engineer.
+21yo, Computer Engineer.
 <br/>
 Self-taught developer.
 
