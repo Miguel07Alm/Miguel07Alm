@@ -24,7 +24,7 @@ Self-taught developer.
 ## 🌐 Social Media
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel07alm/)](https://www.linkedin.com/in/miguel-%C3%A1ngel-sim%C3%B3n-sierra-7b95b5271/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/Miguel07Code)](https://twitter.com/Miguel07Code)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=About.me&logoColor=white&link=https://miguelangels.live)](https://miguelangels.live)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=About.me&logoColor=white&link=https://miguelangels.live)](https://miguel07code.dev)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
