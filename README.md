@@ -1,6 +1,6 @@
 #  About Me
 [![Profile banner](https://i.postimg.cc/YCzbtDHF/ascii-image.png)](https://postimg.cc/v4DWzzD8)
-21yo, Computer Engineer.
+22yo, Computer Engineer.
 <br/>
 Self-taught developer.
 
@@ -50,6 +50,7 @@ Self-taught developer.
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote"/>
 </p>
+
 
 
 
